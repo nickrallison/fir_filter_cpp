@@ -1,1 +1,4 @@
-.libs/*
+libs/*
+assests/*
+main
+.vscode
